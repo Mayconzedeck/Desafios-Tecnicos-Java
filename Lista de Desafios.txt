@@ -11,8 +11,8 @@ Emoticons e Tipos de Desafios
 ==============================================
 👍 Desafios Simples (nível 1)
 ==============================================
-⬜ 000. Olá, Mundo!
-⬜ 001. Verificador de Palíndromo 📝
+ ✅ 000. Olá, Mundo!
+ ✅ 001. Verificador de Palíndromo 📝
 ⬜ 002. Soma de números únicos 🗂️
 ⬜ 003. Orientação a Objetos: Zoológico 🐒
 ⬜ 004. Contador de Vogais 📝
